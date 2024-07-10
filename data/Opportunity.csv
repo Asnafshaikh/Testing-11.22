@@ -1,2 +1,1 @@
 Guid,Name,Description,StageName,Amount,Probability,CloseDate,Type,NextStep,LeadSource,ForecastCategoryName,SBQQ__Contracted__c,SBQQ__CreateContractedPrices__c,SBQQ__OrderGroupID__c,SBQQ__Ordered__c,SBQQ__QuotePricebookId__c,SBQQ__Renewal__c,picklist_jj__c,long_text__c,URL__c,New_Checkbox__c,What_Bear_is_Best__c
-a1002099-b935-44e2-b69a-ec02bcfb96d5,Test Opportunity,#N/A,Prospecting,1000.0,10.0,2024-01-15,#N/A,#N/A,#N/A,Pipeline,false,false,#N/A,false,#N/A,false,Not Started,#N/A,#N/A,true,#N/A
